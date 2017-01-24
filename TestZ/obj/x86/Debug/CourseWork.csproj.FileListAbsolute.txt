@@ -1,0 +1,47 @@
+F:\КР\TestZ\bin\Debug\TestZ.exe
+F:\КР\TestZ\bin\Debug\TestZ.pdb
+F:\КР\TestZ\bin\Debug\ZedGraph.dll
+F:\КР\TestZ\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\КР\TestZ\obj\x86\Debug\TestZ.Form1.resources
+F:\КР\TestZ\obj\x86\Debug\TestZ.Properties.Resources.resources
+F:\КР\TestZ\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\КР\TestZ\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\КР\TestZ\obj\x86\Debug\TestZ.exe
+F:\КР\TestZ\obj\x86\Debug\TestZ.pdb
+D:\КР\TestZ\obj\x86\Debug\TestZ.exe
+D:\КР\TestZ\obj\x86\Debug\TestZ.pdb
+D:\КР\TestZ\bin\Debug\TestZ.exe
+D:\КР\TestZ\bin\Debug\TestZ.pdb
+D:\КР\TestZ\bin\Debug\ZedGraph.dll
+D:\КР\TestZ\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\КР\TestZ\obj\x86\Debug\TestZ.Form1.resources
+D:\КР\TestZ\obj\x86\Debug\TestZ.Properties.Resources.resources
+D:\КР\TestZ\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\КР\TestZ\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\КР\TestZ\obj\x86\Debug\TestZ.exe
+G:\КР\TestZ\obj\x86\Debug\TestZ.pdb
+G:\КР\TestZ\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\КР\TestZ\obj\x86\Debug\TestZ.Form1.resources
+G:\КР\TestZ\obj\x86\Debug\TestZ.Properties.Resources.resources
+G:\КР\TestZ\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\КР\TestZ\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\obj\x86\Debug\TestZ.exe
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\obj\x86\Debug\TestZ.pdb
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\obj\x86\Debug\TestZ.Form1.resources
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\obj\x86\Debug\TestZ.Properties.Resources.resources
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\bin\Debug\TestZ.exe
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\bin\Debug\TestZ.pdb
+D:\university\III kurse(I semestr)\coursework\КР\TestZ\bin\Debug\ZedGraph.dll
+D:\university\III kurse(I semestr)\coursework\TestZ\obj\x86\Debug\TestZ.exe
+D:\university\III kurse(I semestr)\coursework\TestZ\obj\x86\Debug\TestZ.pdb
+D:\university\III kurse(I semestr)\coursework\TestZ\bin\Debug\TestZ.exe
+D:\university\III kurse(I semestr)\coursework\TestZ\bin\Debug\TestZ.pdb
+D:\university\III kurse(I semestr)\coursework\TestZ\bin\Debug\ZedGraph.dll
+D:\university\III kurse(I semestr)\coursework\TestZ\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\university\III kurse(I semestr)\coursework\TestZ\obj\x86\Debug\TestZ.Form1.resources
+D:\university\III kurse(I semestr)\coursework\TestZ\obj\x86\Debug\TestZ.Properties.Resources.resources
+D:\university\III kurse(I semestr)\coursework\TestZ\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\university\III kurse(I semestr)\coursework\TestZ\obj\x86\Debug\GenerateResource.write.1.tlog

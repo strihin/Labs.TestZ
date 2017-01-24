@@ -1,0 +1,40 @@
+D:\university\III kurse\TestZ\TestZ\bin\Release\TestZ.exe
+D:\university\III kurse\TestZ\TestZ\bin\Release\TestZ.pdb
+D:\university\III kurse\TestZ\TestZ\bin\Release\ZedGraph.dll
+D:\university\III kurse\TestZ\TestZ\obj\x86\Release\ResolveAssemblyReference.cache
+D:\university\III kurse\TestZ\TestZ\obj\x86\Release\TestZ.Form1.resources
+D:\university\III kurse\TestZ\TestZ\obj\x86\Release\TestZ.Properties.Resources.resources
+D:\university\III kurse\TestZ\TestZ\obj\x86\Release\GenerateResource.read.1.tlog
+D:\university\III kurse\TestZ\TestZ\obj\x86\Release\GenerateResource.write.1.tlog
+D:\university\III kurse\TestZ\TestZ\obj\x86\Release\TestZ.exe
+D:\university\III kurse\TestZ\TestZ\obj\x86\Release\TestZ.pdb
+D:\university\III kurse\coursework\TestZ\TestZ\bin\Release\TestZ.exe
+D:\university\III kurse\coursework\TestZ\TestZ\bin\Release\TestZ.pdb
+D:\university\III kurse\coursework\TestZ\TestZ\bin\Release\ZedGraph.dll
+D:\university\III kurse\coursework\TestZ\TestZ\obj\x86\Release\ResolveAssemblyReference.cache
+D:\university\III kurse\coursework\TestZ\TestZ\obj\x86\Release\TestZ.Form1.resources
+D:\university\III kurse\coursework\TestZ\TestZ\obj\x86\Release\TestZ.Properties.Resources.resources
+D:\university\III kurse\coursework\TestZ\TestZ\obj\x86\Release\GenerateResource.read.1.tlog
+D:\university\III kurse\coursework\TestZ\TestZ\obj\x86\Release\GenerateResource.write.1.tlog
+D:\university\III kurse\coursework\TestZ\TestZ\obj\x86\Release\TestZ.exe
+D:\university\III kurse\coursework\TestZ\TestZ\obj\x86\Release\TestZ.pdb
+F:\TestZ\TestZ\bin\Release\TestZ.exe
+F:\TestZ\TestZ\bin\Release\TestZ.pdb
+F:\TestZ\TestZ\bin\Release\ZedGraph.dll
+F:\TestZ\TestZ\obj\x86\Release\ResolveAssemblyReference.cache
+F:\TestZ\TestZ\obj\x86\Release\TestZ.Form1.resources
+F:\TestZ\TestZ\obj\x86\Release\TestZ.Properties.Resources.resources
+F:\TestZ\TestZ\obj\x86\Release\GenerateResource.read.1.tlog
+F:\TestZ\TestZ\obj\x86\Release\GenerateResource.write.1.tlog
+F:\TestZ\TestZ\obj\x86\Release\TestZ.exe
+F:\TestZ\TestZ\obj\x86\Release\TestZ.pdb
+F:\КР\TestZ\bin\Release\TestZ.exe
+F:\КР\TestZ\bin\Release\TestZ.pdb
+F:\КР\TestZ\bin\Release\ZedGraph.dll
+F:\КР\TestZ\obj\x86\Release\ResolveAssemblyReference.cache
+F:\КР\TestZ\obj\x86\Release\TestZ.Form1.resources
+F:\КР\TestZ\obj\x86\Release\TestZ.Properties.Resources.resources
+F:\КР\TestZ\obj\x86\Release\GenerateResource.read.1.tlog
+F:\КР\TestZ\obj\x86\Release\GenerateResource.write.1.tlog
+F:\КР\TestZ\obj\x86\Release\TestZ.exe
+F:\КР\TestZ\obj\x86\Release\TestZ.pdb
